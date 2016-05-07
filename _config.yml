@@ -1,0 +1,5 @@
+name: squarebox
+excerpt_separator: <!--more-->
+paginate: 3
+paginate_path: "blog/page:num"
+site.data.whys: 2
