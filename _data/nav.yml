@@ -1,20 +1,20 @@
 - name: Home
   path: index.html
   section_id: home
-- name: Services
-  path: services.html
-  section_id: services
+#- name: Services
+#  path: services.html
+#  section_id: services
 - name: Über uns
   path: about.html
   section_id: about
-- name: Portfolio
+- name: Projekte
   path: portfolio.html
   section_id: portfolio
-  children:
-    - name: Portfolio
-      path: portfolio.html
-    - name: Portfolio single
-      path: portfolio-item.html
-- name: Blog
-  path: blog/
-  section_id: blog
+#  children:
+#    - name: Portfolio
+#      path: portfolio.html
+#    - name: Portfolio single
+#      path: portfolio-item.html
+#- name: Blog
+#  path: blog/
+#  section_id: blog
