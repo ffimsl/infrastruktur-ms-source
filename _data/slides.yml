@@ -5,17 +5,17 @@
     <div class='two spacing'></div>
 #    <p>Förderverein freie Infrastruktur</p>
 #    <a class='button boxed'>View Features</a>
-#- image: slide-2.jpg
-#  desc_location: right
-#  desc:
-#    <h2>Creative Design</h2>
+- image: slide-3.jpg
+  desc_location: left
+  desc:
+    <h2>Freifunk</h2>
 #    <p>Focus on every detail element.</p>
 #    <div class='two spacing'></div>
 #    <a class='button boxed'>Learn More</a>
-#- image: slide-3.jpg
-#  desc_location: left
-#  desc:
-#    <h2>Responsive Design</h2>
+- image: slide-2.jpg
+  desc_location: left
+  desc:
+    <h2>Freifunk LP</h2>
 #    <p>Let users access the theme with all devices</p>
 #    <div class='two spacing'></div>
 #    <a class='button boxed'>Learn More</a>

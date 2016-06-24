@@ -7,9 +7,9 @@
 - name: Über uns
   path: about.html
   section_id: about
-- name: Projekte
-  path: portfolio.html
-  section_id: portfolio
+#- name: Projekte
+#  path: portfolio.html
+#  section_id: portfolio
 #  children:
 #    - name: Portfolio
 #      path: portfolio.html
